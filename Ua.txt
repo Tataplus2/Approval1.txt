@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/487.0.0.85.328;FBBV/754621971;FBDM/{density=1.5,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/Galaxy S21;FBSV/11;FBOP/1;FBCA/arm64-v8a:]
